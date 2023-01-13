@@ -1,0 +1,68 @@
+
+
+		
+		
+		body {
+			background-color: rgb(177, 192, 234);
+			margin: 10%;
+			/* padding: 28%; */
+			
+		}
+
+		
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px rgb(111, 16, 16);
+			word-spacing: 5px;
+			line-height: 5px;
+			font-size: 8vh;
+		}
+
+		
+		#img-1 {
+			display: flex;
+			height: 500px;
+			justify-content: center;
+			
+
+			
+		}
+
+		
+		#caption {
+			font-size: 20px;
+			font-family: Gill Sans;
+			color: black;
+		}
+
+	
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 20px 20px 20px ;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		
+		h1.title-virat {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+		.fot{
+			display: block;
+			text-align: center;
+		}
+		.ab{
+			color: rgb(124, 46, 15);
+		
+		}
+		.ac{
+			color:rgb(124, 46, 15);
+		}
+
+		
+		
